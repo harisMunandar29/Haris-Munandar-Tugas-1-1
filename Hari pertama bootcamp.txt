@@ -1,2 +1,3 @@
-Hari pertama untuk belajar git dan github
+Hari pertama untuk belajar github
 belajar commit pada github
+lalu belajar github
